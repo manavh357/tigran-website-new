@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tigran Hakobyan
+title: Tigran H
 
 # Username (this should match the folder name)
 authors:
